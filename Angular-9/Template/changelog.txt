@@ -1,0 +1,24 @@
+ - updated to angular 9
+ - updated 'fullcalendar' modules
+ 
+	"fullcalendar": "^3.10.1",
+    "@fullcalendar/angular": "^4.4.5-beta",
+    "@fullcalendar/core": "^4.4.0",
+    "@fullcalendar/daygrid": "^4.4.0",
+    "@fullcalendar/interaction": "^4.4.0",
+    "@fullcalendar/timegrid": "^4.2.0",
+	
+ - removed 'angular-6-datatable' module
+ - removed 'ng-2-archwizard' and import new third party module 'angular-archwizard'
+	"angular-archwizard": "^5.0.0",
+ 
+ - updated 'angular-highcharts-chart' and 'highcharts'
+	
+	"angular-highcharts-chart": "^1.0.2",
+	"highcharts": "^6.2.0"
+	
+ - removed '"ic-datepicker" module
+ - removed 'ng2-currency-mask' module
+ - updated 'rxjs-compat'
+ - removed animation module 'css-animator'.
+ - removed 'ng2-validation' and add new third party module 'ngx-custom-validators'
